@@ -71,3 +71,7 @@ This repository contains academic coursework for **CSC-1019**, alongside an inde
 ## 📄 Notes & Academic Integrity
 
 This codebase is maintained for personal reference and portfolio purposes. Coursework adheres to standard academic integrity guidelines.
+
+##Authors
+* **LeviDev2224** - *Developer* - [GitHub Profile](https://github.com/LeviDev2224)
+* **LeviDev2224** - *Major contributor to Project JackGPT* - [GitHub Profile](https://github.com/LeviDev2224)
